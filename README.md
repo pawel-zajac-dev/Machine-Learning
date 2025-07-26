@@ -11,4 +11,3 @@ This repository contains a collection of introductory and intermediate Machine L
 - **Principal Component Analysis (PCA)** – dimensionality reduction for visualization.
 - **Support Vector Machines (SVM)** – classification on non-linear datasets.
 - **Naive Bayes Classifier** – text classification (e.g., sentiment analysis).
-- **Neural Network (Basic)** – simple feedforward network for classification.
