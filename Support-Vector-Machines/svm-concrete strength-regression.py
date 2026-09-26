@@ -15,7 +15,6 @@ X = df[[0,1,2,3,4,5,6,7]].values
 Y = df[8].values
 
 # split the data into train and test sets
-# this lets us simulate how our model will perform in the future
 Xtrain, Xtest, Ytrain, Ytest = train_test_split(X, Y, test_size=0.33)
 
 # scale the data
